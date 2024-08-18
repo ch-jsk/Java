@@ -1,2 +1,2 @@
-# java_lang
-java
+# Java
+This contains practical pdf, project. 
